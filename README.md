@@ -13,4 +13,4 @@
 
 [![angelhodar's github stats](https://github-readme-stats.vercel.app/api?username=angelhodar&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelhodar&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelhodar&layout=compact&hide=html,makefile&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
